@@ -1,0 +1,185 @@
+
+
+
+/* #submissionId{
+    text-align: center;
+    font-weight: bold;
+    padding-top:200px;
+    padding-right: 50px;
+    color: white;
+    margin-left: 120px
+}
+#detailsId{
+    margin-left: 150px;
+}
+h3{
+    margin-left: 150px;
+}
+.col-6{
+    margin-top: 30px;
+}
+.form-group{
+    margin: 10px;
+}
+.form-control{
+    
+    color: white;
+    margin-top: 15px;
+    
+}
+.custom-bg{
+    background-color: rgb(116, 28, 28);
+}
+.form-control::placeholder{
+    color: white;
+    
+}
+
+.form-check-label{
+    
+    color: white;
+}
+#logInp{
+    color: white;
+} */
+/* .col-6 h1{
+    text-align: center;
+    text-decoration: solid;
+    font-weight: bold;
+} */
+.container-fluid {
+    background-color: rgb(116, 28, 28);
+    margin-left: 13px;
+    overflow: hidden;
+    height: 1080px;
+    width: 1241px;
+} 
+#submissionId {
+    margin-top: 220px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 75px;
+    color: white;
+}
+#detailsId{
+    margin-left: 100px;
+    
+}
+h3{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.squarOne{
+    width: 15px;
+    height: 15px;
+    margin-left: 517px;
+    display: flex;
+}
+.squartwo{
+    width: 15px;
+    height: 15px;
+    margin-left: 500px;
+    display: flex;
+}
+.form-check-label{
+    
+    color: white;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+
+.custom-bg{
+    background-color: rgb(116, 28, 28);
+}
+.form-control::placeholder{
+    color: white;
+    
+}
+.form-control{
+    
+    color: white;
+    margin-top: 20px;
+    
+}
+
+.form-group{
+    margin: 10px;
+    
+}
+.custom-size{
+    width: 500px;
+}
+.btn{
+    width: 450px;
+    margin-top: 40px;
+    text-align: center;
+    padding-left: 105px;
+}
+#pSecond{
+    color: azure;
+    font-size: 14px;
+}
+
+
+.box{
+    width: 15px;
+    height: 15px;
+    margin-left: 144px;
+    display: inline-block;
+}
+.squarTwo{
+    width: 15px;
+    height: 15px;
+    margin-left: 287px;
+    margin-top: 3px;
+    
+}
+.custom-checkbox{
+    background-color: transparent; /* Makes background transparent */
+    border: 1px solid rgb(216, 213, 213);
+    margin-top: 10px; 
+}
+
+
+.cut{
+    width: 100px;
+    padding: 100px;
+    clip-path: polygon(100% 57%, 58% 100%, 100% 100% );
+    background-color:white;
+    border: 1px solid white;
+    margin-left: 1053px;
+    margin-top: -224px;
+}
+.box{
+    margin-left: 142px;
+}
+.box2{
+    margin-left: 108px;
+}
+.box3{
+    margin-left: 85px;
+}
+
+
+.box4{
+    margin-left: 77px;
+}
+.box5{
+    margin-left: 97px;
+}
+img{
+    width: 100px;
+    margin-left: 15px;
+}
+.boxTop{
+    margin-top: 67px;
+}
+
+
+
+#award{
+    margin-top: 20px
+}
+.form-check-input{
+    margin-top: 20px;
+}
